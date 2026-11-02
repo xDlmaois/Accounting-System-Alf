@@ -23,10 +23,6 @@ Accounting System/
 │       ├── JournalTab.java
 │       ├── LedgerTab.java
 │       └── BalanceSheetTab.java
-├── compile.bat
-├── run.bat
-├── compile.sh
-├── run.sh
 └── README.md
 ```
 ### Windows
