@@ -1,7 +1,4 @@
-# Accounting System
-
-A beginner-friendly Java 17+ desktop bookkeeping application. It uses Swing and
-only the Java standard library; it has no database, build tool, or external jars.
+# Accounting Umai
 
 ## Project structure
 
