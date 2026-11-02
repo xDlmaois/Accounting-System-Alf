@@ -1,4 +1,4 @@
-# Accounting Umai
+# Accounting Umay
 
 ## Project structure
 
@@ -29,11 +29,6 @@ Accounting System/
 ├── run.sh
 └── README.md
 ```
-
-## Compile and run
-
-Install a JDK version 17 or newer and open a terminal in the project directory.
-
 ### Windows
 
 ```bat
@@ -93,12 +88,3 @@ layout code can be edited directly.
    Equity `50,000.00`, and **Balanced ✔**.
 6. Save to a file, load it again, and confirm the same accounts and balances
    remain.
-
-## File structure
-
-The app generates the following files in the `out/` directory:
-
-- `*.class` files for the compiled Java classes
-- `users.txt` for the user signups
-
-The user signups are also written to `src/users.txt` for reference.
